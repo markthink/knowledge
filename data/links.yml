@@ -1,23 +1,71 @@
-01_chekun:
-  title: chekun's blog
-  link: https://chekun.me
+01_ruanyifeng:
+  title: 阮一峰
+  link: http://www.ruanyifeng.com/blog/
   avatar: /media/links/chekun.jpg
-  description: A full-stack developer
+  description: 每周知识分享
 
-02_wangbo:
-  title: Boof Wang
-  link: http://boof.wang
+02_liaoxuefeng:
+  title: 廖雪峰
+  link: https://www.liaoxuefeng.com/
   avatar: /media/links/wangbo.jpg
-  description: Another full-stack developer
+  description: Python/Git/JS 教程分享
 
-03_yuanxuxu:
-  title: Ryan's blog
-  link: https://yuanxuxu.com/
-  avatar: /media/links/yuanxuxu.jpg
-  description: A interesting developer
+03_k8smeetup:
+  title: Kubernetes 中文站点
+  link: https://k8smeetup.github.io
+  avatar: /media/links/kubernetes.png
+  description: Kubernetes 中文翻译站点
 
-04_candisheng:
-  title: Kan Disheng
-  link: http://www.kandisheng.com/
-  avatar: /media/links/kandisheng.jpg
-  description: A crazy developer
+04_caicloud:
+  title: 才云科技
+  link: https://caicloud.io/
+  avatar: /media/links/caicloud.png
+  description: 新一代智能云计算平台
+
+# 05_caicloud:
+#   title: 才云科技
+#   link: https://caicloud.io/
+#   avatar: /media/links/caicloud.png
+#   description: 新一代智能云计算平台
+
+# 06_caicloud:
+#   title: 才云科技
+#   link: https://caicloud.io/
+#   avatar: /media/links/caicloud.png
+#   description: 新一代智能云计算平台
+
+# 07_caicloud:
+#   title: 才云科技
+#   link: https://caicloud.io/
+#   avatar: /media/links/caicloud.png
+#   description: 新一代智能云计算平台
+
+# 08_caicloud:
+#   title: 才云科技
+#   link: https://caicloud.io/
+#   avatar: /media/links/caicloud.png
+#   description: 新一代智能云计算平台
+
+# 09_caicloud:
+#   title: 才云科技
+#   link: https://caicloud.io/
+#   avatar: /media/links/caicloud.png
+#   description: 新一代智能云计算平台
+
+# 10_caicloud:
+#   title: 才云科技
+#   link: https://caicloud.io/
+#   avatar: /media/links/caicloud.png
+#   description: 新一代智能云计算平台
+
+# 11_caicloud:
+#   title: 才云科技
+#   link: https://caicloud.io/
+#   avatar: /media/links/caicloud.png
+#   description: 新一代智能云计算平台
+
+# 12_caicloud:
+#   title: 才云科技
+#   link: https://caicloud.io/
+#   avatar: /media/links/caicloud.png
+#   description: 新一代智能云计算平台

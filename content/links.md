@@ -1,6 +1,6 @@
 ---
-title: "Links"
-date: "2014-04-09"
+title: "友链"
+date: "2018-08-12"
 layout: "links"
 menu: "main"
 weight: 40
