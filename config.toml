@@ -1,6 +1,6 @@
 baseURL = "https://rays.xyz"
-languageCode = "zh"
-title = "才云技术博客"
+languageCode = "en"
+title = "Rays"
 theme = "hugo-nuo"
 enableRobotsTXT = true
 PygmentsCodeFences = true
@@ -13,7 +13,7 @@ canonifyurls = true
 # googleAnalytics = "UA-XXXXXXXX-X"
 
 # Copyright of your post
-copyright = "© 本站采用知识共享署名 - 非商业4.0国际许可协议授权，如果您想引用或复制，请提供来源。"
+copyright = "©本站采用知识共享署名 - 非商业4.0国际许可协议授权，如果您想引用或复制，请提供来源。"
 
 # Initial site menu, you can extend menu with content.
 [[menu.main]]
@@ -24,7 +24,7 @@ copyright = "© 本站采用知识共享署名 - 非商业4.0国际许可协议�
 
 [[menu.main]]
   name = "标签"
-  weight = 30
+  weight = 20
   identifier = "tags"
   url = "/tags/"
 
@@ -32,9 +32,9 @@ copyright = "© 本站采用知识共享署名 - 非商业4.0国际许可协议�
 [params]
   author = "xiaolong"
   avatar = "/img/avatar.jpg"
-  seotitle = "才云技术博客 (SEO Version)"
+  seotitle = "Rays - 专注云计算技术分享 - Docker/Kubernetes"
   subtitle = "~ 带着爱和梦想生活 ~"
-  description = "本站基于 hugo，借助 markdown 和 Github Pages 构建.."
+  description = "这里是 @markthink 的个人博客，记录他在互联网世界探索的点点滴滴.."
   paginate = 10
 
   # Choose your social networks

@@ -6,5 +6,5 @@ menu: "main"
 weight: 50
 ---
 
-关于我的资料 - 待续..
 
+何小龙，十年软件开发经验，业余技术极客，精通 Python/PHP/Docker/Kubernetes 等，对开源有深入研究，多个业余开源项目托管在GitHub，欢迎微信交流。
