@@ -1,6 +1,6 @@
 baseURL = "https://rays.xyz"
-languageCode = "en"
-title = "Hugo Blog"
+languageCode = "zh"
+title = "才云技术博客"
 theme = "hugo-nuo"
 enableRobotsTXT = true
 PygmentsCodeFences = true
@@ -17,7 +17,7 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
 # Initial site menu, you can extend menu with content.
 [[menu.main]]
-  name = "Home"
+  name = "首页"
   weight = 10
   identifier = "home"
   url = "/"
@@ -38,17 +38,17 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 [params]
   author = "Ritchie Zhu"
   avatar = "/img/avatar.jpg"
-  seotitle = "Hugo Blog (SEO Version)"
-  subtitle = "~ Keep It Simple & Stupid ~"
-  description = "Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again."
+  seotitle = "才云技术博客 (SEO Version)"
+  subtitle = "~ 带着爱和梦想生活 ~"
+  description = "本站基于 hugo，借助 markdown 和 Github Pages 构建.."
   paginate = 10
 
   # Choose your social networks
-  email = "name@domain.com"
-  github = "github_username"
-  twitter = "twitter_username"
-  linkedin = "linkedin_username"
-  weibo = "weibo_username"
+  email = "xiaolong@caicloud.io"
+  github = "markthink"
+  # twitter = "twitter_username"
+  # linkedin = "linkedin_username"
+  # weibo = "weibo_username"
   wechat= "/img/qrcode.jpg" # Replace with your wechat qrcode image
   # facebook = "facebook_username"
   # google = "googlplus_id_number"
@@ -68,16 +68,16 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
   # Changyan Comments (China Only)
   changyan = false
-  changyanId = "cyt3toRiB"
-  changyanConf = "prod_0908b1cb9a581501753cce1ed074dbe3"
+  changyanId = "cytLkAA4a"
+  changyanConf = "prod_1d62f898c76f96f2a3782a30ac1b7188"
 
   # Google Webmaster
   # https://www.google.com/webmasters/
-  googleSiteVerification = "_moDmnnBNVLBN1rzNxyGUGdPHE20YgbmrtzLIbxaWFc"
+  # googleSiteVerification = "_moDmnnBNVLBN1rzNxyGUGdPHE20YgbmrtzLIbxaWFc"
 
   # Bing Webmaster
   # https://www.bing.com/toolbox/webmaster/
-  msValidate = "22596E34341DD1D17D6022C44647E587"
+  # msValidate = "22596E34341DD1D17D6022C44647E587"
 
   # Baidu Webmaster (China Only)
   # https://zhanzhang.baidu.com/
